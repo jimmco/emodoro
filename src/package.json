@@ -1,0 +1,10 @@
+{
+  "name": "emodoro",
+  "version": "0.1.0",
+  "main": "app.js",
+  "devDependencies": {
+    "gulp-atom-electron": "^1.5.2",
+    "gulp-electron": "0.0.10"
+  }
+}
+
