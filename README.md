@@ -1,4 +1,4 @@
-# Machinea
+# Emodoro
 Supersimple pomodoro application.
 
 ## Howto build & run (on Linux-x64)
